@@ -50,7 +50,7 @@ const Main = () => {
           <SplashScreen />
         ) : (
           <>
-            <Header />
+            <Header /> 
             <Greeting />
             <Skills />
             <StackProgress />
